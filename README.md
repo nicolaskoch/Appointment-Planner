@@ -1,3 +1,6 @@
+# You can view Appointment Planner here!
+http://maniacal-jump.surge.sh/appointments
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
