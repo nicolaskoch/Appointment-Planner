@@ -1,5 +1,5 @@
 # You can view Appointment Planner here!
-https://maniacal-jump.surge.sh/appointments
+http://maniacal-jump.surge.sh/contacts
 
 # Getting Started with Create React App
 
